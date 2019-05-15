@@ -1,0 +1,12 @@
+D:\My Programs\Commander\Commander\bin\Debug\Commander.exe.config
+D:\My Programs\Commander\Commander\bin\Debug\Commander.exe
+D:\My Programs\Commander\Commander\bin\Debug\Commander.pdb
+D:\My Programs\Commander\Commander\bin\Debug\Commander.xml
+D:\My Programs\Commander\Commander\obj\Debug\Commander.Form1.resources
+D:\My Programs\Commander\Commander\obj\Debug\Commander.Resources.resources
+D:\My Programs\Commander\Commander\obj\Debug\Commander.vbproj.GenerateResource.Cache
+D:\My Programs\Commander\Commander\obj\Debug\Commander.exe
+D:\My Programs\Commander\Commander\obj\Debug\Commander.xml
+D:\My Programs\Commander\Commander\obj\Debug\Commander.pdb
+D:\My Programs\Commander\Commander\obj\Debug\Commander.vbprojAssemblyReference.cache
+D:\My Programs\Commander\Commander\obj\Debug\Commander.vbproj.CoreCompileInputs.cache
